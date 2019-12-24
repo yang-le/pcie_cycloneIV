@@ -52,6 +52,9 @@
 *.rpt
 *.smsg
 *.sof
+*.jic
+*.cof
+*.cdf
 *.sopc_builder
 *.summary
 *.txt # Explicitly add any text files used
